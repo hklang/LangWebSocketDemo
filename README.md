@@ -1,4 +1,4 @@
-基于WebSocket的稳定聊天、推动SDK，支持c++版本，java版本，js版本。
+基于WebSocket的稳定聊天、推动SDK，支持c++版本，java(Android)版本，js版本。
 
 服务端采取Springboot构建，数据库采用SqlLite。
 
